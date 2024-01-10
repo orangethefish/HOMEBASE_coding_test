@@ -7,4 +7,5 @@
     2. Calculates and prints the average age of individuals in the CSV file. 
     3. Gracefully handles potential errors or special cases.
 
-### To run the code simply run the following command : `python task1.py`
+### To run the code simply run the following command : `python task1/task1.py` 
+> **Note:** You can put your own `data.csv` file in the task1 folder or the code will use `data_example.csv`.
