@@ -1,5 +1,10 @@
-# This is a coding test for an Software Engineer Intern position at a HOMEBASE.
+# This is a coding test for a Software Engineer Intern position at a HOMEBASE.
 
-1. Task 1
-    1. To run the code simply run the following command :
-    `python task1.py`
+## Task 1: Python Programming
+### Problem Statement
+    Write a Python program that accomplishes the following:
+    1. Reads a CSV file named "data.csv" containing two columns: "Name" and "Age".
+    2. Calculates and prints the average age of individuals in the CSV file. 
+    3. Gracefully handles potential errors or special cases.
+
+### To run the code simply run the following command : `python task1.py`
