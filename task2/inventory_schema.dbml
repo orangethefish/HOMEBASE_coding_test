@@ -1,0 +1,43 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+// Visit: https://dbdiagram.io/d/E-commerce-Inventory-Schema-659f98a5ac844320aeb09e87 for complete view
+Table users {
+  id integer [primary key]
+  username varchar(255) [not null, unique]
+  full_name varchar(255) [not null]
+  gender varchar(1) [default: 'm']
+  phone_num varchar(255) [not null]
+  address text [default: "VN"]
+  created_at timestamp [default: `now()`]
+}
+Table products {
+    id integer [primary key]
+    name varchar(255) [not null]
+    description text [default: ""]
+    price float [not null]
+    stock int [default: 0]
+    product_type varchar(255)
+}
+Table orders {
+    id integer [primary key]
+    bought_by integer [ref: > users.id]
+    customer_phone varchar(255) [ref: > users.phone_num]
+    customer_address varchar(255) [ref: > users.address]
+    total decimal
+    created_at timestamp [default: `now()`]
+    finished_at timestamp [default: `now()`]
+    order_status string [default: "processing"]
+}
+Table order_item{
+    id integer [primary key] 
+    order_id integer [ref: > orders.id]
+    item_id integer [ref: > products.id]
+    quantity integer [not null] 
+}
+Table transaction{
+    id integer [primary key]
+    product_id integer [ref: < products.id]
+    transaction_date timestamp [default: `now()`]
+    quantity_in integer [default: "0"]
+    quantity_out integer [default: "0"]
+}

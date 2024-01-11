@@ -19,7 +19,7 @@
 ### Additional notes
     1. Describe relationships between tables or entities if applicable.
     2. Use appropriate data types (VARCHAR, INT, DATE, etc.) and apply constraints as needed.
-<!-- ### To run the code simply run the following command : `python task2/task2.py`  -->
+> **Note:** I have used [dbdiagram.io] to design the database schema. You can find the schema in the `task2` folder or visit [https://dbdiagram.io/d/E-commerce-Inventory-Schema-659f98a5ac844320aeb09e87].
 
 ## Task 3:  Web Scraping - Real Estate Data from Batdongsan.com
 ### Problem Statement
