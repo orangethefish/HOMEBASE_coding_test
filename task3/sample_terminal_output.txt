@@ -1,0 +1,47 @@
+PS D:\Test\HOMEBASE_Intern> & C:/Python311/python.exe d:/Test/HOMEBASE_Intern/task3/task3.py
+WARNING:root:Can not find chromedriver for currently installed chrome version.
+Reading data from website
+
+DevTools listening on ws://127.0.0.1:52824/devtools/browser/8f37fc70-f9f9-4ccc-ba4b-6a8ed9b33433
+                                                 Name                                              Image          Price       Area              Location      PostTime     timestamp
+0   Một lô duy nhất bán đất đường 12m, vỉa hè 4m k...  https://file4.batdongsan.com.vn/crop/393x222/2...       10,42 tỷ     ·62 m²     Long Biên, Hà Nội  Đăng hôm nay  1.704946e+09
+1   Bán nhà gần UBND P. Phú Thọ Hòa, 30m2, 2 tầng,...  https://file4.batdongsan.com.vn/crop/393x222/2...         2,1 tỷ     ·30 m²  Tân Phú, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+2   (462) Cho thuê mặt bằng kinh doanh mặt đường N...  https://file4.batdongsan.com.vn/crop/393x222/2...  6 triệu/tháng     ·40 m²     Hải An, Hải Phòng  Đăng hôm nay  1.704946e+09
+3   Nhà Đẹp Hoàng Hoa Thám, Nhà Xây Mới, Gần Ô Tô,...  https://file4.batdongsan.com.vn/crop/393x222/2...         4,8 tỷ     ·33 m²       Ba Đình, Hà Nội  Đăng hôm nay  1.704946e+09
+4   Bán gấp miếng 403,1m2 mặt tiền DT748. Giáp KCN...  https://file4.batdongsan.com.vn/crop/393x222/2...        3,45 tỷ  ·403,1 m²   Bến Cát, Bình Dương  Đăng hôm nay  1.704946e+09
+5   Gấp cần bán nhanh CC Ngoại Giao Đoàn N04A 2001...  https://file4.batdongsan.com.vn/crop/393x222/2...        3,48 tỷ     ·60 m²   Bắc Từ Liêm, Hà Nội  Đăng hôm nay  1.704946e+09
+6   Cần bán lô đất mặt tiền đường Nguyễn Sáng diện...  https://file4.batdongsan.com.vn/crop/393x222/2...           8 tỷ    ·131 m²      Sơn Trà, Đà Nẵng  Đăng hôm nay  1.704946e+09
+7             Nhà cấp 4 khu chợ Đo Đạc kinh doanh tốt  https://file4.batdongsan.com.vn/crop/393x222/2...          16 tỷ   ·82,5 m²   Quận 2, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+8   Bán nhà Tứ Liên, Âu Cơ 40m2 5 tầng giá 5.5 tỷ ...  https://file4.batdongsan.com.vn/crop/393x222/2...         5,5 tỷ     ·40 m²        Tây Hồ, Hà Nội  Đăng hôm nay  1.704946e+09
+9   Giảm 1 tỷ mặt tiền KD đường thông tứ phía bên ...  https://file4.batdongsan.com.vn/crop/393x222/2...         7,5 tỷ   ·96,6 m²  Thủ Đức, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+10  Bán gấp cắt lỗ căn 3 ngủ Golden Park, Phạm Văn...  https://file4.batdongsan.com.vn/crop/393x222/2...         7,5 tỷ    ·133 m²      Cầu Giấy, Hà Nội  Đăng hôm nay  1.704946e+09
+11  Cực rẻ - 117m2 x 3 tầng - Chỉ 6,5 tỷ - Bán đất...  https://file4.batdongsan.com.vn/crop/393x222/2...         6,5 tỷ    ·117 m²       Đống Đa, Hà Nội  Đăng hôm nay  1.704946e+09
+12  Cần bán căn hộ N07 thành Thái diện tích 86m2 t...  https://file4.batdongsan.com.vn/crop/393x222/2...           4 tỷ     ·86 m²      Cầu Giấy, Hà Nội  Đăng hôm nay  1.704946e+09
+13  CT Hoa Phượng cho thuê kho, xưởng KCN Vsip 1, ...  https://file4.batdongsan.com.vn/crop/393x222/2...    70 nghìn/m²    ·100 m²  Thuận An, Bình Dương  Đăng hôm nay  1.704946e+09
+14  Bán đất dt 5x20,5m đường 40m dự án Thế Kỷ phườ...  https://file4.batdongsan.com.vn/crop/393x222/2...       22,55 tỷ  ·102,5 m²   Quận 2, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+15  BÁN NHÀ HOÀNG MAI - GẦN TRƯƠNG ĐỊNH - BẠCH MAI...  https://file4.batdongsan.com.vn/crop/393x222/2...      105 triệu     ·37 m²  Hai Bà Trưng, Hà Nội  Đăng hôm nay  1.704946e+09
+
+
+
+PS D:\Test\HOMEBASE_Intern> & C:/Python311/python.exe d:/Test/HOMEBASE_Intern/task3/task3.py
+WARNING:root:Can not find chromedriver for currently installed chrome version.
+d:\Test\HOMEBASE_Intern\task3\task3.py:43: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  if df.iloc[-1][6] + TTL > time.time():
+Reading data from cache
+                                                 Name                                              Image          Price       Area              Location      PostTime     timestamp
+0   Một lô duy nhất bán đất đường 12m, vỉa hè 4m k...  https://file4.batdongsan.com.vn/crop/393x222/2...       10,42 tỷ     ·62 m²     Long Biên, Hà Nội  Đăng hôm nay  1.704946e+09
+1   Bán nhà gần UBND P. Phú Thọ Hòa, 30m2, 2 tầng,...  https://file4.batdongsan.com.vn/crop/393x222/2...         2,1 tỷ     ·30 m²  Tân Phú, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+2   (462) Cho thuê mặt bằng kinh doanh mặt đường N...  https://file4.batdongsan.com.vn/crop/393x222/2...  6 triệu/tháng     ·40 m²     Hải An, Hải Phòng  Đăng hôm nay  1.704946e+09
+3   Nhà Đẹp Hoàng Hoa Thám, Nhà Xây Mới, Gần Ô Tô,...  https://file4.batdongsan.com.vn/crop/393x222/2...         4,8 tỷ     ·33 m²       Ba Đình, Hà Nội  Đăng hôm nay  1.704946e+09
+4   Bán gấp miếng 403,1m2 mặt tiền DT748. Giáp KCN...  https://file4.batdongsan.com.vn/crop/393x222/2...        3,45 tỷ  ·403,1 m²   Bến Cát, Bình Dương  Đăng hôm nay  1.704946e+09
+5   Gấp cần bán nhanh CC Ngoại Giao Đoàn N04A 2001...  https://file4.batdongsan.com.vn/crop/393x222/2...        3,48 tỷ     ·60 m²   Bắc Từ Liêm, Hà Nội  Đăng hôm nay  1.704946e+09
+6   Cần bán lô đất mặt tiền đường Nguyễn Sáng diện...  https://file4.batdongsan.com.vn/crop/393x222/2...           8 tỷ    ·131 m²      Sơn Trà, Đà Nẵng  Đăng hôm nay  1.704946e+09
+7             Nhà cấp 4 khu chợ Đo Đạc kinh doanh tốt  https://file4.batdongsan.com.vn/crop/393x222/2...          16 tỷ   ·82,5 m²   Quận 2, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+8   Bán nhà Tứ Liên, Âu Cơ 40m2 5 tầng giá 5.5 tỷ ...  https://file4.batdongsan.com.vn/crop/393x222/2...         5,5 tỷ     ·40 m²        Tây Hồ, Hà Nội  Đăng hôm nay  1.704946e+09
+9   Giảm 1 tỷ mặt tiền KD đường thông tứ phía bên ...  https://file4.batdongsan.com.vn/crop/393x222/2...         7,5 tỷ   ·96,6 m²  Thủ Đức, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+10  Bán gấp cắt lỗ căn 3 ngủ Golden Park, Phạm Văn...  https://file4.batdongsan.com.vn/crop/393x222/2...         7,5 tỷ    ·133 m²      Cầu Giấy, Hà Nội  Đăng hôm nay  1.704946e+09
+11  Cực rẻ - 117m2 x 3 tầng - Chỉ 6,5 tỷ - Bán đất...  https://file4.batdongsan.com.vn/crop/393x222/2...         6,5 tỷ    ·117 m²       Đống Đa, Hà Nội  Đăng hôm nay  1.704946e+09
+12  Cần bán căn hộ N07 thành Thái diện tích 86m2 t...  https://file4.batdongsan.com.vn/crop/393x222/2...           4 tỷ     ·86 m²      Cầu Giấy, Hà Nội  Đăng hôm nay  1.704946e+09
+13  CT Hoa Phượng cho thuê kho, xưởng KCN Vsip 1, ...  https://file4.batdongsan.com.vn/crop/393x222/2...    70 nghìn/m²    ·100 m²  Thuận An, Bình Dương  Đăng hôm nay  1.704946e+09
+14  Bán đất dt 5x20,5m đường 40m dự án Thế Kỷ phườ...  https://file4.batdongsan.com.vn/crop/393x222/2...       22,55 tỷ  ·102,5 m²   Quận 2, Hồ Chí Minh  Đăng hôm nay  1.704946e+09
+15  BÁN NHÀ HOÀNG MAI - GẦN TRƯƠNG ĐỊNH - BẠCH MAI...  https://file4.batdongsan.com.vn/crop/393x222/2...      105 triệu     ·37 m²  Hai Bà Trưng, Hà Nội  Đăng hôm nay  1.704946e+09

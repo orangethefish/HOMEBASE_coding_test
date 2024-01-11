@@ -1,0 +1,4 @@
+PS D:\Test\HOMEBASE_Intern> python task1/task1.py 
+Collected 47 records from data.csv
+Collected 29 records after removing invalid records from data.csv
+Average age is of individuals: 39.72
