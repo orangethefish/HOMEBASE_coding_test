@@ -9,7 +9,7 @@
     3. Gracefully handles potential errors or special cases.
 
 ### To run the code simply run the following command : `python task1/task1.py` 
-> **Note:** You can put your own `data.csv` file in the task1 folder or the code will use `data_example.csv`.
+**Note:** You can put your own `data.csv` file in the task1 folder or the code will use `data_example.csv`.
 ## Task 2:  Data Structures: E-commerce Inventory Schema
 ### Problem Statement
     Design a data structure for an online store's inventory management system.
