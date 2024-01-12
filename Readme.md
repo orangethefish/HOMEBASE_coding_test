@@ -1,5 +1,6 @@
 # This is a coding test for a Software Engineer Intern position at HOMEBASE.
 **Note:** Before running any code, please make sure you have installed all the dependencies by running the following command: `pip install -r requirements.txt`
+> All scripts written in Python have sample output files.
 ## Task 1: Python Programming
 ### Problem Statement
     Write a Python program that accomplishes the following:
@@ -9,7 +10,6 @@
 
 ### To run the code simply run the following command : `python task1/task1.py` 
 > **Note:** You can put your own `data.csv` file in the task1 folder or the code will use `data_example.csv`.
-> All scripts written in Python have sample output files.
 ## Task 2:  Data Structures: E-commerce Inventory Schema
 ### Problem Statement
     Design a data structure for an online store's inventory management system.
