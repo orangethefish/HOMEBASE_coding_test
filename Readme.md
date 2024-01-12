@@ -1,4 +1,4 @@
-# This is a coding test for a Software Engineer Intern position at a HOMEBASE.
+# This is a coding test for a Software Engineer Intern position at HOMEBASE.
 **Note:** Before running any code, please make sure you have installed all the dependencies by running the following command: `pip install -r requirements.txt`
 ## Task 1: Python Programming
 ### Problem Statement
